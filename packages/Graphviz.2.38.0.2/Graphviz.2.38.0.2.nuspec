@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Graphviz</id>
+    <version>2.38.0.2</version>
+    <title>Graphviz</title>
+    <authors>Arif Bilgin, John Ellson, Emden Gansner, Yifan Hu, Arif Bilgin, Stephen North and others</authors>
+    <owners>Arif Bilgin, John Ellson, Emden Gansner, Yifan Hu, Arif Bilgin, Stephen North and others</owners>
+    <licenseUrl>http://www.graphviz.org/License.php</licenseUrl>
+    <projectUrl>http://www.graphviz.org/</projectUrl>
+    <iconUrl>http://www.graphviz.org/app.png</iconUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>Graphviz is open source graph visualization software. Graph visualization is a way of representing structural information as diagrams of abstract graphs and networks. It has important applications in networking, bioinformatics,  software engineering, database and web design, machine learning, and in visual interfaces for other technical domains.</description>
+    <summary />
+    <releaseNotes>Fix nuget include in .NET projects.</releaseNotes>
+    <language>en-us</language>
+    <tags>graphviz dot graph rendering plotting</tags>
+  </metadata>
+</package>

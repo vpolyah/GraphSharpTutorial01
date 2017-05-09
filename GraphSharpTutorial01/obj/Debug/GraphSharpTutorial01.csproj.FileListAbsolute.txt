@@ -1,0 +1,65 @@
+C:\Users\Palesz\Documents\Projects\Graph#\SampleTutorials\GraphSharpTutorial01\GraphSharpTutorial01\bin\Debug\GraphSharpTutorial01.Contracts.dll
+C:\Users\Palesz\Documents\Projects\Graph#\SampleTutorials\GraphSharpTutorial01\GraphSharpTutorial01\bin\Debug\GraphSharpTutorial01.Contracts.pdb
+C:\Users\Palesz\Documents\Projects\Graph#\SampleTutorials\GraphSharpTutorial01\GraphSharpTutorial01\bin\Debug\GraphSharpTutorial01.exe
+C:\Users\Palesz\Documents\Projects\Graph#\SampleTutorials\GraphSharpTutorial01\GraphSharpTutorial01\bin\Debug\GraphSharpTutorial01.pdb
+C:\Users\Palesz\Documents\Projects\Graph#\SampleTutorials\GraphSharpTutorial01\GraphSharpTutorial01\bin\Debug\GraphSharp.Controls.dll
+C:\Users\Palesz\Documents\Projects\Graph#\SampleTutorials\GraphSharpTutorial01\GraphSharpTutorial01\bin\Debug\GraphSharp.dll
+C:\Users\Palesz\Documents\Projects\Graph#\SampleTutorials\GraphSharpTutorial01\GraphSharpTutorial01\bin\Debug\QuickGraph.dll
+C:\Users\Palesz\Documents\Projects\Graph#\SampleTutorials\GraphSharpTutorial01\GraphSharpTutorial01\bin\Debug\WPFExtensions.dll
+C:\Users\Palesz\Documents\Projects\Graph#\SampleTutorials\GraphSharpTutorial01\GraphSharpTutorial01\bin\Debug\GraphSharp.pdb
+C:\Users\Palesz\Documents\Projects\Graph#\SampleTutorials\GraphSharpTutorial01\GraphSharpTutorial01\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Palesz\Documents\Projects\Graph#\SampleTutorials\GraphSharpTutorial01\GraphSharpTutorial01\obj\Debug\Window1.baml
+C:\Users\Palesz\Documents\Projects\Graph#\SampleTutorials\GraphSharpTutorial01\GraphSharpTutorial01\obj\Debug\Window1.g.cs
+C:\Users\Palesz\Documents\Projects\Graph#\SampleTutorials\GraphSharpTutorial01\GraphSharpTutorial01\obj\Debug\App.g.cs
+C:\Users\Palesz\Documents\Projects\Graph#\SampleTutorials\GraphSharpTutorial01\GraphSharpTutorial01\obj\Debug\GraphSharpTutorial01_MarkupCompile.cache
+C:\Users\Palesz\Documents\Projects\Graph#\SampleTutorials\GraphSharpTutorial01\GraphSharpTutorial01\obj\Debug\GraphSharpTutorial01.g.resources
+C:\Users\Palesz\Documents\Projects\Graph#\SampleTutorials\GraphSharpTutorial01\GraphSharpTutorial01\obj\Debug\GraphSharpTutorial01.Properties.Resources.resources
+C:\Users\Palesz\Documents\Projects\Graph#\SampleTutorials\GraphSharpTutorial01\GraphSharpTutorial01\obj\Debug\GraphSharpTutorial01.csproj.GenerateResource.Cache
+C:\Users\Palesz\Documents\Projects\Graph#\SampleTutorials\GraphSharpTutorial01\GraphSharpTutorial01\obj\Debug\GraphSharpTutorial01.exe
+C:\Users\Palesz\Documents\Projects\Graph#\SampleTutorials\GraphSharpTutorial01\GraphSharpTutorial01\obj\Debug\GraphSharpTutorial01.pdb
+C:\Users\Виктор\Desktop\Tutorials\GraphSharpTutorial01\GraphSharpTutorial01\obj\Debug\GraphSharpTutorial01.exe
+C:\Users\Виктор\Desktop\Tutorials\GraphSharpTutorial01\GraphSharpTutorial01\obj\Debug\GraphSharpTutorial01.pdb
+C:\Users\Виктор\Desktop\Tutorials\GraphSharpTutorial01\GraphSharpTutorial01\bin\Debug\GraphSharpTutorial01.exe
+C:\Users\Виктор\Desktop\Tutorials\GraphSharpTutorial01\GraphSharpTutorial01\bin\Debug\GraphSharpTutorial01.pdb
+C:\Users\Виктор\Desktop\Tutorials\GraphSharpTutorial01\GraphSharpTutorial01\bin\Debug\GraphSharp.pdb
+C:\Users\Виктор\Desktop\Tutorials\GraphSharpTutorial01\GraphSharpTutorial01\obj\Debug\GraphSharpTutorial01.csprojResolveAssemblyReference.cache
+C:\Users\Виктор\Desktop\Tutorials\GraphSharpTutorial01\GraphSharpTutorial01\obj\Debug\Window1.baml
+C:\Users\Виктор\Desktop\Tutorials\GraphSharpTutorial01\GraphSharpTutorial01\obj\Debug\Window1.g.cs
+C:\Users\Виктор\Desktop\Tutorials\GraphSharpTutorial01\GraphSharpTutorial01\obj\Debug\App.g.cs
+C:\Users\Виктор\Desktop\Tutorials\GraphSharpTutorial01\GraphSharpTutorial01\obj\Debug\GraphSharpTutorial01_MarkupCompile.cache
+C:\Users\Виктор\Desktop\Tutorials\GraphSharpTutorial01\GraphSharpTutorial01\obj\Debug\GraphSharpTutorial01.g.resources
+C:\Users\Виктор\Desktop\Tutorials\GraphSharpTutorial01\GraphSharpTutorial01\obj\Debug\GraphSharpTutorial01.Properties.Resources.resources
+C:\Users\Виктор\Desktop\Tutorials\GraphSharpTutorial01\GraphSharpTutorial01\obj\Debug\GraphSharpTutorial01.csproj.GenerateResource.Cache
+C:\Users\Виктор\Desktop\Tutorials\GraphSharpTutorial01\GraphSharpTutorial01\obj\Debug\GraphSharpTutorial01.csproj.ResolveComReference.cache
+C:\Users\Виктор\Desktop\По графу\Tutorials\GraphSharpTutorial01\GraphSharpTutorial01\obj\Debug\GraphSharpTutorial01.csproj.ResolveComReference.cache
+C:\Users\Виктор\Desktop\По графу\Tutorials\GraphSharpTutorial01\GraphSharpTutorial01\obj\Debug\GraphSharpTutorial01.exe
+C:\Users\Виктор\Desktop\По графу\Tutorials\GraphSharpTutorial01\GraphSharpTutorial01\obj\Debug\GraphSharpTutorial01.pdb
+C:\Users\Виктор\Desktop\По графу\Tutorials\GraphSharpTutorial01\GraphSharpTutorial01\obj\Debug\GraphSharpTutorial01.csprojResolveAssemblyReference.cache
+C:\Users\Виктор\Desktop\По графу\Tutorials\GraphSharpTutorial01\GraphSharpTutorial01\obj\Debug\App.g.cs
+C:\Users\Виктор\Desktop\По графу\Tutorials\GraphSharpTutorial01\GraphSharpTutorial01\obj\Debug\GraphSharpTutorial01_MarkupCompile.cache
+C:\Users\Виктор\Desktop\По графу\Tutorials\GraphSharpTutorial01\GraphSharpTutorial01\bin\Debug\GraphSharpTutorial01.exe
+C:\Users\Виктор\Desktop\По графу\Tutorials\GraphSharpTutorial01\GraphSharpTutorial01\bin\Debug\GraphSharpTutorial01.pdb
+C:\Users\Виктор\Desktop\По графу\Tutorials\GraphSharpTutorial01\GraphSharpTutorial01\obj\Debug\Window1.g.cs
+C:\Users\Виктор\Desktop\По графу\Tutorials\GraphSharpTutorial01\GraphSharpTutorial01\obj\Debug\GraphSharpTutorial01_MarkupCompile.lref
+C:\Users\Виктор\Desktop\По графу\Tutorials\GraphSharpTutorial01\GraphSharpTutorial01\obj\Debug\Window1.baml
+C:\Users\Виктор\Desktop\По графу\Tutorials\GraphSharpTutorial01\GraphSharpTutorial01\obj\Debug\GraphSharpTutorial01.g.resources
+C:\Users\Виктор\Desktop\По графу\Tutorials\GraphSharpTutorial01\GraphSharpTutorial01\obj\Debug\GraphSharpTutorial01.Properties.Resources.resources
+C:\Users\Виктор\Desktop\По графу\Tutorials\GraphSharpTutorial01\GraphSharpTutorial01\obj\Debug\GraphSharpTutorial01.csproj.GenerateResource.Cache
+C:\Users\Виктор\Desktop\По графу\Tutorials\GraphSharpTutorial01\GraphSharpTutorial01\bin\Debug\GraphSharpTutorial01.exe.config
+C:\Users\Виктор\Desktop\По графу\Tutorials\GraphSharpTutorial01\GraphSharpTutorial01\bin\Debug\GraphSharp.Controls.dll
+C:\Users\Виктор\Desktop\По графу\Tutorials\GraphSharpTutorial01\GraphSharpTutorial01\bin\Debug\GraphSharp.dll
+C:\Users\Виктор\Desktop\По графу\Tutorials\GraphSharpTutorial01\GraphSharpTutorial01\bin\Debug\QuickGraph.Data.dll
+C:\Users\Виктор\Desktop\По графу\Tutorials\GraphSharpTutorial01\GraphSharpTutorial01\bin\Debug\QuickGraph.dll
+C:\Users\Виктор\Desktop\По графу\Tutorials\GraphSharpTutorial01\GraphSharpTutorial01\bin\Debug\QuickGraph.Graphviz.dll
+C:\Users\Виктор\Desktop\По графу\Tutorials\GraphSharpTutorial01\GraphSharpTutorial01\bin\Debug\QuickGraph.Serialization.dll
+C:\Users\Виктор\Desktop\По графу\Tutorials\GraphSharpTutorial01\GraphSharpTutorial01\bin\Debug\WPFExtensions.dll
+C:\Users\Виктор\Desktop\По графу\Tutorials\GraphSharpTutorial01\GraphSharpTutorial01\bin\Debug\QuickGraph.xml
+C:\Users\Виктор\Desktop\По графу\Tutorials\GraphSharpTutorial01\GraphSharpTutorial01\bin\Debug\QuickGraph.Data.xml
+C:\Users\Виктор\Desktop\По графу\Tutorials\GraphSharpTutorial01\GraphSharpTutorial01\bin\Debug\QuickGraph.Graphviz.xml
+C:\Users\Виктор\Desktop\По графу\Tutorials\GraphSharpTutorial01\GraphSharpTutorial01\bin\Debug\QuickGraph.Serialization.xml
+C:\Users\Виктор\Desktop\По графу\Tutorials\GraphSharpTutorial01\GraphSharpTutorial01\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Виктор\Desktop\По графу\Tutorials\GraphSharpTutorial01\GraphSharpTutorial01\bin\Debug\Graphviz.dll
+C:\Users\Виктор\Desktop\По графу\Tutorials\GraphSharpTutorial01\GraphSharpTutorial01\bin\Debug\Graphviz4Net.dll
+C:\Users\Виктор\Desktop\По графу\Tutorials\GraphSharpTutorial01\GraphSharpTutorial01\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\Виктор\Desktop\По графу\Tutorials\GraphSharpTutorial01\GraphSharpTutorial01\bin\Debug\Graphviz4Net.pdb
+C:\Users\Виктор\Desktop\По графу\Tutorials\GraphSharpTutorial01\GraphSharpTutorial01\obj\Debug\GeneratedInternalTypeHelper.g.cs
